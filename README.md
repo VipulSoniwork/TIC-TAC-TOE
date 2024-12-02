@@ -48,3 +48,8 @@ This project is a simple **Tic-Tac-Toe** game built using **React** and **CSS**.
 
 ## Acknowledgments
 This project was created to practice React fundamentals and build a classic game with interactive UI features.
+
+## Vercel Link:
+https://tic-tac-toe-theta-sable.vercel.app/
+
+
